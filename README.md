@@ -21,7 +21,7 @@
 
 **Option B: Git Clone (if you have Git)**
 ```bash
-git clone https://github.com/yourwebbu1lder/bogh.git
+git clone https://github.com/yourwebbu1lder01/bogh.git
 cd bogh
 ```
 
